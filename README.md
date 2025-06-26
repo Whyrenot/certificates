@@ -3,6 +3,6 @@
 *Avito ML-cup поиск дублей 2025
 *DLS олимпиада по машинному обучению (прошел в финал) 2025
 *Tender Hack 4-е место 2024
-*VK 2024
+*VKxHSE DataHack 2024
 *ICPC honorable mention 2023
 *VTB MORE.Tech 5.0 топ-40 2023
